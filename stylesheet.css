@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+
+.wrapper{
+    background-color: antiquewhite;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: auto;
+}
+
+img{
+    max-width: 100%;
+}
